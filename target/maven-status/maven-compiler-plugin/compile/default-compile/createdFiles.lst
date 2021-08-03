@@ -1,0 +1,13 @@
+com\ivt\jv42_phamvanvuong_exam\entities\NewsEntity.class
+com\ivt\jv42_phamvanvuong_exam\repository\NewsRepository.class
+com\ivt\jv42_phamvanvuong_exam\service\StaffService.class
+com\ivt\jv42_phamvanvuong_exam\configuration\JPAConfig.class
+com\ivt\jv42_phamvanvuong_exam\entities\CategoryEntity.class
+com\ivt\jv42_phamvanvuong_exam\configuration\AppInitializer.class
+com\ivt\jv42_phamvanvuong_exam\repository\CategoryRepository.class
+com\ivt\jv42_phamvanvuong_exam\service\CategoryService.class
+com\ivt\jv42_phamvanvuong_exam\repository\StaffRepository.class
+com\ivt\jv42_phamvanvuong_exam\controller\HomeController.class
+com\ivt\jv42_phamvanvuong_exam\service\NewsService.class
+com\ivt\jv42_phamvanvuong_exam\configuration\MVCConfig.class
+com\ivt\jv42_phamvanvuong_exam\entities\StaffEntity.class
